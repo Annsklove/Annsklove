@@ -37,6 +37,7 @@
 ![MCP](https://img.shields.io/badge/MCP-111111?style=for-the-badge&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Pipedream](https://img.shields.io/badge/Pipedream-2D2D2D?style=for-the-badge&logoColor=white)
+![Clay](https://img.shields.io/badge/Clay-1A1A1A?style=for-the-badge&logoColor=white)
 ![Google Sheets API](https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 ---
